@@ -225,7 +225,7 @@ Resources for evaluating NS-AI methods in product design contexts.
 ## ⚠️ Risks and Challenges
 
 <p align="center">
-  <img src="figures/Risks_challenges.png" alt="Risks and Challenges" width="700"/>
+  <img src="figures/risks_challenges.png" alt="Risks and Challenges" width="700"/>
 </p>
 
 ---
