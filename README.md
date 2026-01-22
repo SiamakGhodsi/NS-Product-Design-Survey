@@ -153,16 +153,16 @@ Foundational MORL methods providing multi-objective optimization capabilities.
 
 | Paper | Year | DOI |
 |-------|------|-----|
-| A Practical Guide to Multi-Objective RL and Planning | 2022 | [10.1007/s10458-022-09552-y](https://doi.org/10.1007/s10458-022-09552-y) |
-| A Survey of Multi-Objective Sequential Decision-Making | 2013 | [10.1613/jair.3987](https://doi.org/10.1613/jair.3987) |
-| MORL Based on Decomposition: A Taxonomy and Framework | 2024 | [10.48550/arXiv.2311.12495](https://doi.org/10.48550/arXiv.2311.12495) |
+| A Practical Guide to Multi-Objective RL and Planning | 2022 | [JAAMAS](https://doi.org/10.1007/s10458-022-09552-y) |
+| A Survey of Multi-Objective Sequential Decision-Making | 2013 | [JAIR](https://doi.org/10.1613/jair.3987) |
+| MORL Based on Decomposition: A Taxonomy and Framework | 2024 | [JAIR](https://doi.org/10.1613/jair.1.15702) |
 | Multi-Objective RL using Sets of Pareto Dominating Policies | 2014 | [JMLR](https://www.jmlr.org/papers/v15/vanmoffaert14a.html) |
 | A Generalized Algorithm for MORL and Policy Adaptation | 2019 | [NeurIPS](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) |
-| Deep Reinforcement Learning for Multiobjective Optimization | 2021 | [10.1109/TCYB.2020.2977661](https://doi.org/10.1109/TCYB.2020.2977661) |
-| On Generalization Within MORL Algorithms | 2024 | [OpenReview](https://openreview.net/forum?id=tuEP424UQ5) |
+| Deep Reinforcement Learning for Multiobjective Optimization | 2021 | [IEEE TCYB](https://doi.org/10.1109/TCYB.2020.2977661) |
+| On Generalization Within MORL Algorithms | 2025 | [ICLR](https://openreview.net/forum?id=tuEP424UQ5) |
 | Prediction-Guided MORL for Continuous Robot Control | 2020 | [ICML](https://proceedings.mlr.press/v119/xu20h.html) |
-| Multi-objective Cross-task Learning for Surgical Robot Automation | 2024 | [10.1109/ICRA57147.2024.10611051](https://doi.org/10.1109/ICRA57147.2024.10611051) |
-| On Transforming RL With Transformers | 2024 | [10.1109/TPAMI.2024.3408271](https://doi.org/10.1109/TPAMI.2024.3408271) |
+| Multi-objective Cross-task Learning for Surgical Robot Automation | 2024 | [ICRA](https://doi.org/10.1109/ICRA57147.2024.10611051) |
+| On Transforming RL With Transformers | 2024 | [IEEE TPAMI](https://doi.org/10.1109/TPAMI.2024.3408271) |
 
 ### Neural CAD & Geometric Deep Learning
 
@@ -170,12 +170,12 @@ Pure neural approaches for CAD and geometric processing (comparison baselines).
 
 | Paper | Year | DOI |
 |-------|------|-----|
-| Geometric Deep Learning for Computer-Aided Design: A Survey | 2025 | [10.1109/ACCESS.2025.3587121](https://doi.org/10.1109/ACCESS.2025.3587121) |
-| GenCAD: Image-Conditioned CAD Generation with Diffusion Priors | 2024 | [TMLR](https://openreview.net/forum?id=cGpdLCmqnF) |
+| Geometric Deep Learning for Computer-Aided Design: A Survey | 2025 | [IEEE Access](https://doi.org/10.1109/ACCESS.2025.3587121) |
+| GenCAD: Image-Conditioned CAD Generation with Diffusion Priors | 2025 | [TMLR](https://openreview.net/forum?id=e817c1wEZ6) |
 | CADDreamer: CAD Object Generation from Single-view Images | 2025 | [CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Li_CADDreamer_CAD_Object_Generation_from_Single-view_Images_CVPR_2025_paper.html) |
-| PHT-CAD: Efficient CAD Parametric Primitive Analysis | 2025 | [10.48550/arXiv.2503.18147](https://doi.org/10.48550/arXiv.2503.18147) |
-| A Neural Network Based Approach for Product Form Design | 2002 | [10.1016/S0142-694X(01)00015-1](https://doi.org/10.1016/S0142-694X(01)00015-1) |
-| Position: Graph Foundation Models are Already Here | 2024 | [10.48550/arXiv.2402.02216](https://doi.org/10.48550/arXiv.2402.02216) |
+| PHT-CAD: Efficient CAD Parametric Primitive Analysis | 2025 | [ArXiv](https://doi.org/10.48550/arXiv.2503.18147) |
+| A Neural Network Based Approach for Product Form Design | 2002 | [Journal Design Studies](https://doi.org/10.1016/S0142-694X(01)00015-1) |
+| Position: Graph Foundation Models are Already Here | 2024 | [ICML](https://doi.org/10.48550/arXiv.2402.02216) |
 
 ### Manufacturing & Design Background
 
@@ -184,7 +184,7 @@ Domain context for understanding product design challenges.
 | Paper | Year | DOI |
 |-------|------|-----|
 | Industrial AI in Industry 4.0: Systematic Review | 2020 | [10.1109/ACCESS.2020.3042874](https://doi.org/10.1109/ACCESS.2020.3042874) |
-| Convolutional and Generative Adversarial NNs in Manufacturing | 2020 | [10.1080/00207543.2019.1662133](https://doi.org/10.1080/00207543.2019.1662133) |
+| Convolutional and Generative Adversarial NNs in Manufacturing | 2019 | [10.1080/00207543.2019.1662133](https://doi.org/10.1080/00207543.2019.1662133) |
 | Artificial Neural Networks in Manufacturing | 1994 | [10.1109/95.296402](https://doi.org/10.1109/95.296402) |
 | Disassembly Sequence Planning of Waste Auto Parts | 2021 | [10.1080/10962247.2020.1871444](https://doi.org/10.1080/10962247.2020.1871444) |
 | The Future of Human-AI Collaboration: Hybrid Intelligence Systems | 2021 | [10.48550/arXiv.2105.03354](https://doi.org/10.48550/arXiv.2105.03354) |
@@ -197,13 +197,13 @@ Resources for evaluating NS-AI methods in product design contexts.
 
 | Paper | Year | Domain | DOI |
 |-------|------|--------|-----|
-| SketchGraphs: Relational Geometry Dataset for CAD | 2020 | CAD | [10.48550/arXiv.2007.08506](https://doi.org/10.48550/arXiv.2007.08506) |
+| SketchGraphs: Relational Geometry Dataset for CAD | 2020 | CAD | [ICML Workshop](https://doi.org/10.48550/arXiv.2007.08506) |
 | ABO: Dataset and Benchmarks for Real-World 3D Object Understanding | 2022 | 3D | [10.1109/CVPR52688.2022.02045](https://doi.org/10.1109/CVPR52688.2022.02045) |
-| ArchCAD-400K: Large-Scale CAD Drawings Dataset | 2025 | CAD | [arXiv](https://arxiv.org/abs/2503.00459) |
-| UCSM: Dataset of U-shaped CAD Geometries for Deep Drawing | 2025 | Manufacturing | [10.1016/j.cad.2025.103924](https://doi.org/10.1016/j.cad.2025.103924) |
-| HolStep: Dataset for Higher-order Logic Theorem Proving | 2017 | Logic | [ICLR](https://openreview.net/forum?id=ryxwsAqYx) |
+| ArchCAD-400K: Large-Scale CAD Drawings Dataset | 2025 | CAD | [NeurIPS](https://openreview.net/forum?id=rAGWvnpcKe) |
+| UCSM: Dataset of U-shaped CAD Geometries for Deep Drawing | 2025 | Manufacturing | [Journal CAD](https://doi.org/10.1016/j.cad.2025.103924) |
+| HolStep: Dataset for Higher-order Logic Theorem Proving | 2017 | Logic | [ICLR](https://openreview.net/forum?id=ryuxYmvel) |
 | YAHPO Gym: Multi-Objective Multi-Fidelity Benchmark | 2022 | Optimization | [AutoML](https://proceedings.mlr.press/v188/pfisterer22a.html) |
-| Snorkel: Rapid Training Data Creation with Weak Supervision | 2017 | General | [10.14778/3157794.3157797](https://doi.org/10.14778/3157794.3157797) |
+| Snorkel: Rapid Training Data Creation with Weak Supervision | 2017 | General | [VLDB](https://doi.org/10.14778/3157794.3157797) |
 
 ### Knowledge Representation Foundations
 
