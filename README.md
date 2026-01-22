@@ -23,7 +23,7 @@ A comprehensive, queryable, and continuously updated comparison of methods is av
 We organize neurosymbolic methods using [Kautz's taxonomy](https://doi.org/10.1002/aaai.12036), adapted for product design contexts:
 
 <p align="center">
-  <img src="figures/type_taxonomy.pdf" alt="Neurosymbolic Integration Types" width="800"/>
+  <img src="figures/taxonomy.png" alt="Neurosymbolic Integration Types" width="800"/>
 </p>
 
 | Type | Integration Pattern | Product Design Example |
@@ -225,7 +225,7 @@ Resources for evaluating NS-AI methods in product design contexts.
 ## ⚠️ Risks and Challenges
 
 <p align="center">
-  <img src="figures/Risks_challenges.pdf" alt="Risks and Challenges" width="700"/>
+  <img src="figures/Risks_challenges.png" alt="Risks and Challenges" width="700"/>
 </p>
 
 ---
