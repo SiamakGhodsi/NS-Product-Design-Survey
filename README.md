@@ -43,7 +43,7 @@ We organize neurosymbolic methods using [Kautz's taxonomy](https://doi.org/10.10
 
 Symbolic knowledge (ontologies, knowledge graphs, domain taxonomies) is encoded as features or embeddings that inform neural learning.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | Periodic Graph Transformers for Crystal Material Property Prediction | 2022 | Materials | [NeurIPS](https://openreview.net/forum?id=pqCT3L-BU9T) |
 | Ontology-based Knowledge Representation of Industrial Production Workflow | 2023 | Manufacturing | [J. AEI](https://doi.org/10.1016/j.aei.2023.102185) |
@@ -57,13 +57,12 @@ Symbolic knowledge (ontologies, knowledge graphs, domain taxonomies) is encoded 
 
 Symbolic reasoning systems use neural networks as oracles for perception, generation, or sub-symbolic computation.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | Taxonomy-Informed Neural Networks for Smart Manufacturing | 2024 | Manufacturing | [J. Proc. Comp. Sci.](https://doi.org/10.1016/j.procs.2024.01.137) |
 | NeSyGeo: Neuro-Symbolic Framework for Multimodal Geometric Reasoning | 2025 | Reasoning | [ICML Workshop](https://openreview.net/pdf/cd51b8278944e5da5f6ee643efdf5c823ddb3511.pdf) |
 | LLM4CAD: Multimodal LLMs for 3D CAD Generation | 2025 | CAD | [J. Comput. Inf. Sci. Eng.](https://doi.org/10.1115/1.4067085) |
-| OpenECAD: Efficient Visual Language Model for Editable 3D-CAD Design | 2024 | CAD | [
-Computers & Graphics Journal](https://doi.org/10.1016/j.cag.2024.104048) |
+| OpenECAD: Efficient Visual Language Model for Editable 3D-CAD Design | 2024 | CAD | [Computers & Graphics Journal](https://doi.org/10.1016/j.cag.2024.104048) |
 | CadVLM: Bridging Language and Vision in Parametric CAD Sketches | 2024 | CAD | [ECCV](https://doi.org/10.1007/978-3-031-72897-6_21) |
 | Adaptive LLM-Symbolic Reasoning via Dynamic Logical Solver Composition | 2025 | Reasoning | [ArXiv](https://doi.org/10.48550/arXiv.2510.06774) |
 | Do LLMs Really Adapt to Domains? An Ontology Learning Perspective | 2024 | Ontology | [ISWC](https://doi.org/10.48550/arXiv.2407.19998) |
@@ -75,7 +74,7 @@ Computers & Graphics Journal](https://doi.org/10.1016/j.cag.2024.104048) |
 
 Neural and symbolic components operate in parallel with structured information exchange, enabling verification, shielding, or explanation.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | Advancing Sustainable Manufacturing: RL with Adaptive Reward Machine | 2024 | Manufacturing | [Sustainability Journal](https://doi.org/10.3390/su16145873) |
 | ASAP: Automated Sequence Planning for Complex Robotic Assembly | 2024 | Assembly | [ICRA](https://doi.org/10.1109/ICRA57147.2024.10611595) |
@@ -92,7 +91,7 @@ Neural and symbolic components operate in parallel with structured information e
 
 Symbolic rules are compiled into neural network architecture or training procedure.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | SPRING: Integrating Symbolic Reasoning into Neural Generative Models | 2025 | Design | [Artificial Intelligence](https://doi.org/10.1016/j.artint.2024.104257) |
 | McGAN: Manufacturing Rules Embedded in Conditional GAN | 2025 | Manufacturing | [J. AEI](https://doi.org/10.1016/j.aei.2024.103074) |
@@ -101,7 +100,7 @@ Symbolic rules are compiled into neural network architecture or training procedu
 
 Symbolic constraints (physics, logic, geometry) are incorporated as differentiable loss terms.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | Complete PINN-Based Framework for Structural Topology Optimization | 2023 | Topology | [J.CMA](https://doi.org/10.1016/j.cma.2023.116401) |
 | Scientific ML Through Physics-Informed Neural Networks | 2022 | Physics | [Journal of Scientific Computing](https://doi.org/10.1007/s10915-022-01939-z) |
@@ -114,7 +113,7 @@ Symbolic constraints (physics, logic, geometry) are incorporated as differentiab
 
 Symbolic solvers are made differentiable and embedded as layers within neural networks.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | OptNet: Differentiable Optimization as a Layer | 2017 | General | [ICML](https://proceedings.mlr.press/v70/amos17a.html) |
 | SATNet: Differentiable Satisfiability Solver | 2019 | General | [ICML](https://proceedings.mlr.press/v97/wang19e.html) |
@@ -130,7 +129,7 @@ Symbolic solvers are made differentiable and embedded as layers within neural ne
 
 Core references for understanding NS-AI integration paradigms.
 
-| Paper | Year | DOI |
+| Paper | Year | Venue & Link|
 |-------|------|-----|
 | The Third AI Summer (Kautz Taxonomy) | 2022 | [AAAI](https://doi.org/10.1002/aaai.12036) |
 | Neurosymbolic AI: the 3rd Wave | 2023 | [J.AIR](https://doi.org/10.1007/s10462-023-10448-w) |
@@ -152,7 +151,7 @@ Core references for understanding NS-AI integration paradigms.
 
 Foundational MORL methods providing multi-objective optimization capabilities.
 
-| Paper | Year | DOI |
+| Paper | Year | Venue & Link|
 |-------|------|-----|
 | A Practical Guide to Multi-Objective RL and Planning | 2022 | [JAAMAS](https://doi.org/10.1007/s10458-022-09552-y) |
 | A Survey of Multi-Objective Sequential Decision-Making | 2013 | [JAIR](https://doi.org/10.1613/jair.3987) |
@@ -169,7 +168,7 @@ Foundational MORL methods providing multi-objective optimization capabilities.
 
 Pure neural approaches for CAD and geometric processing (comparison baselines).
 
-| Paper | Year | DOI |
+| Paper | Year | Venue & Link|
 |-------|------|-----|
 | Geometric Deep Learning for Computer-Aided Design: A Survey | 2025 | [IEEE Access](https://doi.org/10.1109/ACCESS.2025.3587121) |
 | GenCAD: Image-Conditioned CAD Generation with Diffusion Priors | 2025 | [TMLR](https://openreview.net/forum?id=e817c1wEZ6) |
@@ -182,7 +181,7 @@ Pure neural approaches for CAD and geometric processing (comparison baselines).
 
 Domain context for understanding product design challenges.
 
-| Paper | Year | DOI |
+| Paper | Year | Venue & Link|
 |-------|------|-----|
 | Industrial AI in Industry 4.0: Systematic Review | 2020 | [IEEE ACCESS](https://doi.org/10.1109/ACCESS.2020.3042874) |
 | Convolutional and Generative Adversarial NNs in Manufacturing | 2019 | [IJPR](https://doi.org/10.1080/00207543.2019.1662133) |
@@ -196,7 +195,7 @@ Domain context for understanding product design challenges.
 
 Resources for evaluating NS-AI methods in product design contexts.
 
-| Paper | Year | Domain | DOI |
+| Paper | Year | Domain | Venue & Link|
 |-------|------|--------|-----|
 | SketchGraphs: Relational Geometry Dataset for CAD | 2020 | CAD | [ICML Workshop](https://doi.org/10.48550/arXiv.2007.08506) |
 | ABO: Dataset and Benchmarks for Real-World 3D Object Understanding | 2022 | 3D | [CVPR](https://doi.org/10.1109/CVPR52688.2022.02045) |
@@ -208,7 +207,7 @@ Resources for evaluating NS-AI methods in product design contexts.
 
 ### Knowledge Representation Foundations
 
-| Paper | Year | DOI |
+| Paper | Year | Venue & Link|
 |-------|------|-----|
 | Translating Embeddings for Modeling Multi-relational Data (TransE) | 2013 | [NeurIPS](https://proceedings.neurips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html) |
 
