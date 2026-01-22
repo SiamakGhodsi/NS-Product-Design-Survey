@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "NS-Product-Design-Survey — resources and retrieval pipeline"
+type: software
+authors:
+  - family-names: "Ghodsi"
+    given-names: "Siamak"
+repository-code: "https://github.com/SiamakGhodsi/NS-Product-Design-Survey"
+url: "https://github.com/SiamakGhodsi/NS-Product-Design-Survey"
+date-released: "2026-01-18"
+license: "MIT"
+keywords:
+  - neuro-symbolic
+  - product design
+  - CAD
+  - manufacturing
+  - constraints
+  - reinforcement learning
