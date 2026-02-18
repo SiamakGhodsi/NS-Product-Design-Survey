@@ -236,9 +236,10 @@ Resources for evaluating NS-AI methods in product design contexts.
 @inproceedings{ghodsi2026neurosymbolic,
   title     = {Integrating Neurosymbolic Systems in Advanced Product Design: A Comprehensive Review},
   author    = {Ghodsi, Siamak and Rabby, Gollam and Krdzavac, Nenad and Engel, Felix and M{\"u}nker, Sven and Auer, S{\"o}ren},
-  booktitle = {Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI)},
+  booktitle = {Under review to the NAI Jorunal},
   year      = {2026},
-  note      = {Survey Track (Submitted)}
+  volume    = {TBD},
+  pages     = {1-22}
 }
 ```
 
@@ -251,6 +252,28 @@ Resources for evaluating NS-AI methods in product design contexts.
 - **[MORL Practical Guide](https://doi.org/10.1007/s10458-022-09552-y)** — Multi-objective RL foundations
 
 ---
+## 🔁 ORKG vs GitHub: What lives where?
+
+This project is maintained in **two complementary forms**:
+
+- **ORKG Comparison (live, queryable):**  
+  The ORKG page is the **most up-to-date structured knowledge base** behind our survey table(s). It is designed for
+  filtering, querying, and reusing the comparison as machine-actionable research knowledge.
+
+- **GitHub Repository (curated, narrative):**  
+  This repository provides the **human-readable entry point** to the survey: taxonomy figures, risk visualizations,
+  reading lists grouped by integration types, and documentation for how the survey is organized.
+
+### Source of truth
+- **For structured metadata and the evolving comparison table:** ORKG is the *source of truth*.  
+- **For figures, taxonomy narrative, and a stable snapshot aligned with the PDF:** GitHub is the *source of truth*.
+
+### Synchronization policy
+- ORKG may contain **more papers and richer fields** than the README at any time (continuous updates).
+- The README is updated in **discrete snapshots** (e.g., for major revisions, resubmissions, or periodic releases).
+- The repository aims to keep the README consistent with a tagged release (or commit) corresponding to the paper version.
+
+**ORKG link:** https://orkg.org/comparisons/R1569149
 
 ## 📄 License
 
