@@ -1,12 +1,12 @@
 # Neuro-Symbolic AI for Product Design: A Survey
 
-[![IJCAI 2026](https://img.shields.io/badge/IJCAI--2026-Survey%20Track%20(Submitted)-blue)]()
+[![NAI Journal](https://img.shields.io/badge/NAI--2026-Survey%20Paper%20(Submitted)-green)](https://neurosymbolic-ai-journal.com/)
 [![ORKG](https://img.shields.io/badge/ORKG-Comparison-green)](https://orkg.org/comparisons/R1569149)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Integrating Neurosymbolic Systems in Advanced Product Design: A Comprehensive Review**  
 > Siamak Ghodsi, Gollam Rabby, Nenad Krdzavac, Felix Engel, Sven Münker, Sören Auer  
-> *Submitted to IJCAI 2026 Survey Track*
+> *Submitted to NAI 2026: Special call for Survey Track*
 
 This repository accompanies our survey on neurosymbolic AI methods for product design, spanning generative CAD, manufacturing optimization, assembly planning, and sustainability-driven design.
 
